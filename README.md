@@ -278,6 +278,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
-
-Project Link: [https://github.com/yourusername/ai-chat-backend](https://github.com/yourusername/ai-chat-backend)
+Bakhti Nabil Abdelkafi- nn_bakhti@esi.dz
+Project Link: [https://github.com/nnbx2k1/ai-chat-backend-api](https://github.com/nnbx3k1/ai-chat-backend-api)
